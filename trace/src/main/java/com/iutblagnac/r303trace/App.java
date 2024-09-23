@@ -3,7 +3,7 @@ package com.iutblagnac.r303trace;
 /**
  * Hello world!
  * @author    Théo
- * 
+ *    
  */
 public class App 
 {
