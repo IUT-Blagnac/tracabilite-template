@@ -4,6 +4,7 @@ package com.iutblagnac.r303trace;
  * Hello world!
  *
  */
+//@author: Théo
 public class App 
 {
     public static void main( String[] args )
