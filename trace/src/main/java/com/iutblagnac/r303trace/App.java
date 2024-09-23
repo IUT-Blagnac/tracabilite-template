@@ -16,6 +16,7 @@ public class App
     }
 
     /**Affiche le paramètre
+     * Ajout d'une ligne pour merge au bon endroit
      * 
      */
     public static String hello(String param) {
