@@ -12,6 +12,7 @@ public class App
      */
     public static void main( String[] args )
     {
+
         System.out.println(hello());
     }
 
@@ -20,7 +21,7 @@ public class App
      * @return Hello World !
      */
     public static String hello() {
-        return  "Hello World!" ;
+        return "Hello World!";
     }
 
     /**
@@ -29,7 +30,7 @@ public class App
      * @return param
      */
     public static String hello(String param) {
-        return  param ;
+        return param;
     }
-    
+
 }
