@@ -13,11 +13,11 @@ public class App
     }
 
     public static String hello() {
-        return  "Hello World!" ;
+        return "Hello World!";
     }
 
     public static String hello(String param) {
-        return  param ;
+        return param;
     }
-    
+
 }
