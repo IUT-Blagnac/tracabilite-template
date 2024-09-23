@@ -15,6 +15,9 @@ public class App
         return  "Hello World!" ;
     }
 
+    /**Affiche le paramètre
+     * 
+     */
     public static String hello(String param) {
         return  param ;
     }
