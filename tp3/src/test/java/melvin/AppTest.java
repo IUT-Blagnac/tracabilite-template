@@ -15,6 +15,6 @@ public class AppTest
      */
     @Test
     public void testHelloWorld(){
-        assertEquals("Hello World!", App.main());
+        assertEquals("Hello World !", App.main());
     }
 }
