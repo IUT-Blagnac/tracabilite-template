@@ -1,8 +1,7 @@
 package com.iutblagnac.r303trace;
 
 /**
- * Hello world!
- *
+ * Hello world! MOI
  */
 public class App 
 {
