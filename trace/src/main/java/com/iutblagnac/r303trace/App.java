@@ -4,6 +4,7 @@ package com.iutblagnac.r303trace;
  * Hello world!
  *
  */
+
 public class App 
 {
     public static void main( String[] args )
@@ -12,11 +13,20 @@ public class App
         System.out.println(hello());
     }
 
+    /**
+     *
+     * @return Hello Word
+     */
     public static String hello() {
-        return  "Hello World!" ;
+        return "Hello World!";
     }
 
+    /**
+     *
+     * @param param
+     * @return param
+     */
     public static String hello(String param) {
-        return  param ;
+        return param;
     }
 }
