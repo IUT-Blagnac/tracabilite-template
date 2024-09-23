@@ -24,7 +24,7 @@ public class App
     }
 
     /**
-     *Retourne la chaine de caractère donner a param
+     *Retourne la chaine de caractère donner a param saisi
      * @param param
      * @return param
      */
