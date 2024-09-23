@@ -18,5 +18,7 @@ public class App
     public static String hello(String param) {
         return  param ;
     }
+
+    System.out.println(hello("Hello Wonderful World!"));
     
 }
