@@ -15,8 +15,14 @@ public class App
         return  "Hello World!" ;
     }
 
-    public static String hello(String param) {
-        return  param ;
+    /**
+     * 
+     * @param par
+     * @return par
+     */
+    public static String hello(String par) {
+        return  par ;
     }
+
     
 }
