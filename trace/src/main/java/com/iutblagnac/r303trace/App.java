@@ -4,7 +4,7 @@ package com.iutblagnac.r303trace;
  * Hello world!
  *
  */
-//@author: Théo
+//@author:  Théo
 //
 public class App 
 {
