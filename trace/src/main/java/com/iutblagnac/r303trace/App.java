@@ -18,4 +18,8 @@ public class App {
         return param;
     }
 
+    public static String byebye() {
+        return "Bye bye";
+    }
+
 }
