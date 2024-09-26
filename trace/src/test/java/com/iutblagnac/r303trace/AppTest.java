@@ -42,4 +42,12 @@ public class AppTest
     {
         assertEquals("Hello JMB!", App.hello("Hello JMB!"));
     }
+
+    /**
+     * Test the return with empty parameter
+     */
+    public void testNapsEmptyParameter()
+    {
+        assertEquals("team naps okey okey", App.naps());
+    }
 }
