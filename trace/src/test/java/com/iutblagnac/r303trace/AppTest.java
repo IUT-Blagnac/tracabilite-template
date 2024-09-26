@@ -42,4 +42,12 @@ public class AppTest
     {
         assertEquals("Hello JMB!", App.hello("Hello JMB!"));
     }
+
+    /**
+     * Test la méthode byebye
+     */
+
+     public void testByebyeEmptyParameter() {
+        assertEquals("Bye bye", App.byebye());
+     }
 }
