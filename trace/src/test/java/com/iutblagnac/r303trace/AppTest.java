@@ -18,6 +18,8 @@ public class AppTest
     {
         super( testName );
     }
+    
+    // Je fais une modification
 
     /**
      * @return the suite of tests being tested
